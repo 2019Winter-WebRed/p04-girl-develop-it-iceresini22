@@ -1,0 +1,43 @@
+/*
+* Isabella Ceresini
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/* Body attributes here */
+
+body {
+    
+}
+    
+header{
+background-color:#ff6666;
+} 
+
+body{
+background-color:#ffe8e6;
+}
+
+h1{font-family: cursive, fantasy, sans-serif;}
+h1{font-size: 90;}
+
+h2{font-size: 75;}
+h2{font-family: cursive, fantasy, sans-serif;}
+
+header{text-align: center;}
+
+#girlswithlaptops {width:350px; height: 250px; float:right;}
+#notboyfriend {width:350px; height: 250px; float:right;}
+
+a:link {
+    color: blue;
+    text-decoration: none;}
+a:hover, a:focus {
+    color: fuchsia;
+    text-decoration: underline; font-size: 135%;} 
+
